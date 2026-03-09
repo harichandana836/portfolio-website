@@ -4,7 +4,7 @@ This is my personal portfolio website built using HTML and CSS.
 It showcases my skills, projects, and contact information.
 
 ## 🚀 Live Website
-👉 https://harichandana836.github.io/portfolio-website
+👉 https://harichandana836.github.io/portfolio-website/
 
 ## 📌 Features
 - Responsive design
